@@ -17,6 +17,7 @@
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=plastic&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%20Sharp-%23239120.svg?&style=plastic&logo=c%20sharp&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&style=plastic&logo=ruby&logoColor=white)
+![Arduíno](https://img.shields.io/badge/Arduino-%2300979D.svg?&style=plastic&logo=arduino&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?&style=plastic&logo=c&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white)
@@ -30,9 +31,27 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+-->
+
+- 🔭 Projetos Atuais ...
+    + **Soft DFe** - Sistema Emissor de Documentos Fiscais
+    + **Soft DFe Client** - Pacote de integração para ERP's com o Soft DFe
+    + **Tele Entrega Fácil** - Aplicativo de delivery de tele entregas
+    + **Format Converter** - Pacote conversor de formatos para Delphi
+    + **Faça em Casa** - Site com dicas úteis para o dia a dia
+    + **Canal Youtube + Blog** - Espaço para dicas e troca de ideias
+    + **Estação Total** - Estação topografica controlada por Arduino
+    + **WSEDFe** - Sistema Emissor de Documentos Fiscais (mantenedor)
+    + **WCSO** - Sistema ERP (manutenção)
+
+- 🌱 Estudando ...
+    + Bacharelado em Ciência da Computação
+
+- 👯 Procurando colaborar em ...
+    + Projetos *open source* Delphi
+    + Projetos  *open source* Arduino
+
+<!--   
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
