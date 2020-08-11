@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 - 👯 Procurando colaborar em ...
     + Projetos *open source* Delphi
     + Projetos  *open source* Arduino
+    + Criação de vídeos com tutorias e afins
 
 <!--   
 - 🤔 I’m looking for help with ...
