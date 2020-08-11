@@ -6,7 +6,7 @@
 ![Build](https://img.shields.io/badge/Build-1.2.30.477-brightgreen) 
 ![](github.com/bomrafinha)
 
-[![Generic badge](https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://shields.io/){:target="_blank"}
+[![Generic badge](https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://shields.io/)(:target="_blank")
 
 <a href="github.com/bomrafinha">https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white</a>
 
