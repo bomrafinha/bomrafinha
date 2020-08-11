@@ -18,7 +18,9 @@
 
 ![](https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/mssql-%23CC2927.svg?&style=plastic&logo=microsoftsqlserver&logoColor=white)
-![](https://img.shields.io/badge/firebird-%23f95311.svg?&style=plastic&logo=mysql&logoColor=white)
+
+![](https://img.shields.io/badge/firebird-%23f95311.svg?&style=plastic&logo-data=firebird.sgv&logoColor=white)
+
 ![](https://img.shields.io/badge/sqlite-%23003B57.svg?&style=plastic&logo=sqlite&logoColor=white)
 ![]()
 
