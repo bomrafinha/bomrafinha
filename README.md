@@ -4,7 +4,7 @@
 
 ![Maintenance](https://img.shields.io/maintenance/yes/2020)
 ![Build](https://img.shields.io/badge/Build-1.2.30.477-brightgreen) 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/bomraf
+![GitHub release (latest by date)](https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)
 
 <a href="github.com/bomrafinha">https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white</a>
 
