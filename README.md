@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Projetos Atuais ...
-    + **Soft DFe** - Sistema Emissor de Documentos Fiscais
+    + **Soft DFe** - API Emissora de Documentos Fiscais
     + **Soft DFe Client** - Pacote de integração para ERP's com o Soft DFe
     + **Tele Entrega Fácil** - Aplicativo de delivery de tele entregas
     + **Format Converter** - Pacote conversor de formatos para Delphi
