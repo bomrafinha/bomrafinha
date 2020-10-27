@@ -34,20 +34,20 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Projetos Atuais ...
-    + **Soft DFe** - API Emissora de Documentos Fiscais
-    + **Soft DFe Client** - Pacote de integração para ERP's com o Soft DFe
-    <!--+ **Tele Entrega Fácil** - Aplicativo de delivery de tele entregas -->
-    + **Format Converter** - Pacote conversor de formatos para Delphi
-    + **Faça em Casa** - Site com dicas úteis para o dia a dia
-    + **Canal Youtube + Blog** - Espaço para dicas e troca de ideias
-    + **Estação Total** - Estação topografica controlada por Arduino
-    + **WSEDFe** - Sistema Emissor de Documentos Fiscais (mantenedor)
-    + **WCSO** - Sistema ERP (manutenção)
-    + **SGE** - Sistema ERP (migração Delphi 2007 -> Delphi Tokio)
+    + **Soft DFe** - API Emissora de Documentos Fiscais (Delphi)
+    + **Soft DFe Client** - Pacote de integração para ERP's com o Soft DFe (Delphi)
+    <!--+ **Tele Entrega Fácil** - Aplicativo de delivery de tele entregas (Delphi) -->
+    + **Format Converter** - Pacote conversor de formatos para Delphi (Delphi)
+    + **Faça em Casa** - Site com dicas úteis para o dia a dia (Joomla)
+    + **Canal Youtube + Blog** - Espaço para dicas e troca de ideias (Wordpress)
+    + **Estação Total** - Estação topografica controlada por Arduino (C/C++)
+    + **WSEDFe** - Sistema Emissor de Documentos Fiscais (mantenedor) (Delphi)
+    + **WCSO** - Sistema ERP (manutenção) (Delphi)
+    + **SGE** - Sistema ERP (migração Delphi 2007 -> Delphi Tokio) (Delphi)
 
 - 🌱 Estudando ...
     + Bacharelado em Ciência da Computação
-    + Iniciação em pesquisa no Instituto de Saneamento Ambiental (ISAM) - Desenvolvimento do novo sistema **SIA**
+    + Iniciação em pesquisa no Instituto de Saneamento Ambiental (ISAM) - Desenvolvimento do novo sistema **SIA** (PHP + JS + HTML5 +CSS3)
 
 - 👯 Procurando colaborar em ...
     + Projetos *open source* Delphi
