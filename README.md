@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 - 🌱 Estudando ...
     + Bacharelado em Ciência da Computação
-    + Iniciação em pesquisa no Instituto de Saneamento Ambiental (ISAM) - Desenvolvimento do novo sistema **SIA** (PHP + JS + HTML5 +CSS3)
+    + Iniciação em pesquisa no Instituto de Saneamento Ambiental (ISAM) - Desenvolvimento do novo sistema **SIA** (PHP + HTML/CSS/JS)
 
 - 👯 Procurando colaborar em ...
     + Projetos *open source* Delphi
