@@ -15,7 +15,7 @@
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&style=plastic&logo=ruby&logoColor=white)
 ![Arduíno](https://img.shields.io/badge/Arduino-%2300979D.svg?&style=plastic&logo=arduino&logoColor=white)
-![C](https://img.shields.io/badge/C-%23A8B9CC.svg?&style=plastic&logo=c&logoColor=white)
+<!--![C](https://img.shields.io/badge/C-%23A8B9CC.svg?&style=plastic&logo=c&logoColor=white)-->
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
