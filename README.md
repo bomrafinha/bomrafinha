@@ -12,7 +12,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=plastic&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&style=plastic&logo=ruby&logoColor=white)
 ![Arduíno](https://img.shields.io/badge/Arduino-%2300979D.svg?&style=plastic&logo=arduino&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?&style=plastic&logo=c&logoColor=white)
@@ -27,16 +27,16 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=plastic&logo=Linux%20Mint&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
-![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=plastic&logo=centos&logoColor=F0F0F0)
+![Cent OS](https://img.shields.io/badge/CentOS-002260?style=plastic&logo=centos&logoColor=F0F0F0)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=plastic&logo=insomnia&logoColor=5849BE)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white)
 
 <!--
 **bomrafinha/bomrafinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
