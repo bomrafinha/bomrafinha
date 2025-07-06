@@ -26,8 +26,8 @@
   <h1 align="center">Rafael Rossa</h1>
   <p align="center">Desenvolvedor de Software | Entusiasta de Tecnologia | Criador de Soluções</p>
 </p><br>
-<div align="center">
-    <img src="./self2.jpg" alt="Rafael Rossa" width="200" style="border-radius: 30;">
+<div align="center" style="border-radius:30px;">
+    <img src="./self2.jpg" alt="Rafael Rossa" width="200" style="border-radius:30px;">
 </div>
 
 <!-- Subtítulo chamativo -->
