@@ -188,14 +188,20 @@ Estes são projetos que já fiz parte mas que, por diversos motivos, não trabal
 - Arduino
 - Criação de vídeos com tutoriais e afins
 
+
+
 ## ✨ Habilidades Adicionais
 
 <p>
-  Ao longo da minha carreira, adquiri experiência em diversas áreas:
+  Ao longo da minha carreira, construí um conjunto diversificado de habilidades que me permitem abordar desafios complexos em diversas áreas do desenvolvimento de software:
 </p>
 
-- Desenvolvimento de APIs RESTful
-- Integração de sistemas
-- Desenvolvimento web (frontend e backend)
-- Automação com Arduino e C/C++
-- Manutenção e migração de sistemas legados
+- Desenvolvimento de aplicações desktop robustas e eficientes
+- Criação e modelagem de bancos de dados otimizados para alta performance
+- Desenvolvimento de APIs RESTful para integração de sistemas
+- Experiência em desenvolvimento web (frontend e backend)
+- Criação de aplicativos mobile inovadores
+- Automação de sistemas com Arduino e C/C++
+- Gerenciamento de infraestrutura de redes e servidores Linux
+- Implantação e otimização de processos DevOps
+- Manutenção e migração de sistemas legados, garantindo a continuidade dos negócios
