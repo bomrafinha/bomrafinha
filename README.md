@@ -122,38 +122,80 @@
 ![Solidworks](https://img.shields.io/badge/SolidWorks-005386?style=plastic&logo=dassaultsystemes&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=plastic&logo=krita&logoColor=EEF37B)
 
-<!--
-**bomrafinha/bomrafinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre Mim
 
-Here are some ideas to get you started:
+<p>
+  Sou um desenvolvedor de software apaixonado por tecnologia e pela criação de soluções inovadoras. Com experiência em diversas áreas do desenvolvimento, busco constantemente aprimorar minhas habilidades e contribuir para projetos desafiadores.
+</p>
 
--->
+<!-- Seções principais -->
+## 🛠️ Projetos em Destaque
 
-- 🔭 Projetos Atuais ...
-    + **Soft DFe** - API Emissora de Documentos Fiscais (Delphi)
-    + **Soft DFe Client** - Pacote de integração para ERP's com o Soft DFe (Delphi)
-    <!--+ **Tele Entrega Fácil** - Aplicativo de delivery de tele entregas (Delphi) -->
-    + **Format Converter** - Pacote conversor de formatos para Delphi (Delphi)
-    + **Faça em Casa** - Site com dicas úteis para o dia a dia (Joomla)
-    + **Canal Youtube + Blog** - Espaço para dicas e troca de ideias (Wordpress)
-    + **Estação Total** - Estação topografica controlada por Arduino (C/C++)
-    + **WSEDFe** - Sistema Emissor de Documentos Fiscais (mantenedor) (Delphi)
-    + **WCSO** - Sistema ERP (manutenção) (Delphi)
-    + **SGE** - Sistema ERP (migração Delphi 2007 -> Delphi Tokio) (Delphi)
+### 🔥 Atualmente em Desenvolvimento/Manutenção
 
-- 🌱 Estudando ...
-    + Bacharelado em Ciência da Computação
-    <!--+ Iniciação em pesquisa no Instituto de Saneamento Ambiental (ISAM) - Desenvolvimento do novo sistema **SIA** (PHP + HTML/CSS/JS) -->
+Estes são os projetos que mantenho ativos e nos quais estou trabalhando:
 
-- 👯 Procurando colaborar em ...
-    + Projetos *open source* Delphi
-    + Projetos  *open source* Arduino
-    + Criação de vídeos com tutorias e afins
+- **NLWeb:** Sistema ERP (Java/PLSQL)
+- **NLED:** Sistema de Estruturação Digital de documentos (Java/PLSQL)
+- **mSGE:** Sistema de força de venda (Java) (API e APP)
+- **Resplendor:** Framework para sistemas personalizados que inclui Web/API/Mobile/Escrituração de documentos (Ruby on Rails/Java/Lazarus)
+- **Soft Events:** API para emissão de Documentos Fiscais (Delphi/Lazarus)
+- **Soft Events Client:** Pacote de integração para ERPs com o Soft DFe (Delphi/Lazarus)
+- **Format Converter:** Pacote conversor de formatos para (Delphi/Lazarus)
+- **Faça em Casa:** Site com dicas úteis para o dia a dia (Wordpress)
+- **Canal Youtube + Blog:** Espaço para dicas e troca de ideias (Wordpress)
+- **WSEDFe:** Sistema Emissor de Documentos Fiscais (Delphi)
+- **Management Dynamic:** Sistema de acompanhamento de tempo (Delphi)
 
-<!--   
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 😴 Projetos Arquivados/Sem Manutenção
+
+Estes são projetos que já fiz parte mas que, por diversos motivos, não trabalho mais ativamente neles:
+
+- WCSO: Sistema ERP (Delphi)
+- SGE: Sistema ERP (migração Delphi 2007 -> Delphi Tokio) (Delphi)
+- ItService: Sistema de gerenciamento de demandas (Delphi)
+- Galileo: Sistema ERP (C#/ExtJS)
+- SIA (Sistema de Informações Ambientais): Iniciação em pesquisa no Instituto de Saneamento Ambiental (ISAM) (PHP + HTML/CSS/JS)
+
+## 📚 Formação e Aprendizado Contínuo
+
+<p>
+  Ao longo da minha jornada, busquei aprimoramento constante através de diversas fontes de conhecimento:
+</p>
+
+- **Bacharelado em Ciência da Computação**
+- **SENAI Mecatrônica Caxias Técnico em Automação Industrial com ênfase em Sistemas de Controle**
+- Do Básico ao Avançado no Desenvolvimento de Jogos (Godot)
+- Ruby on Rails na Prática
+- Aprenda Bootstrap do zero
+- Ruby Para Iniciantes
+- Jogos 2D com Unity + C# CURSO COMPLETO
+- Aprenda Unity 5 - Como criar um jogo de plataforma 3D
+- Início ao Desenvolvimento de Aplicativos Android com Java
+- PLSQL (Aprendizado Autodidata)
+
+## 🤝 Buscando Colaboração em
+
+<p>
+  Adoraria colaborar em projetos <em>open source</em> que envolvam:
+</p>
+
+- Delphi/Lazarus
+- Ruby on Rails
+- Java (backend e mobile)
+- Desenvolvimento e otimização de bancos de dados SQL
+- Desenvolvimento de jogos em Unity
+- Arduino
+- Criação de vídeos com tutoriais e afins
+
+## ✨ Habilidades Adicionais
+
+<p>
+  Ao longo da minha carreira, adquiri experiência em diversas áreas:
+</p>
+
+- Desenvolvimento de APIs RESTful
+- Integração de sistemas
+- Desenvolvimento web (frontend e backend)
+- Automação com Arduino e C/C++
+- Manutenção e migração de sistemas legados
